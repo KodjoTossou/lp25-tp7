@@ -163,4 +163,4 @@ Dans ce TP, vous avez découvert l'utilisation séquentielle des fichiers, que c
 	- En écriture : `fputs`, `fprintf`, `fwrite` ou `write`
 - Fermeture : `fclose` ou `close`
 
-### NB : TP proposé par Frédéric Lassabe : https://github.com/flassabe/
+### NB : TP proposé par Frédéric Lassabe 
